@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/POM_Automation_Framework.iml" filepath="$PROJECT_DIR$/.idea/modules/POM_Automation_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/POM_Automation_Framework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/POM_Automation_Framework_main.iml" group="POM_Automation_Framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/POM_Automation_Framework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/POM_Automation_Framework_test.iml" group="POM_Automation_Framework" />
+    </modules>
+  </component>
+</project>
